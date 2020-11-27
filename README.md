@@ -26,4 +26,4 @@
 
 
 
-![Netflix-Clone-Google-Chrome-2020-11-26-22-32-17](C:\Users\User\Downloads\Netflix-Clone-Google-Chrome-2020-11-26-22-32-17.gif)
+![nt](https://user-images.githubusercontent.com/30630150/100402848-11d0ce00-303c-11eb-89ef-682f306f9f85.png)
