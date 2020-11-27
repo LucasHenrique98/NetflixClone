@@ -1,6 +1,6 @@
 <h1>Projeto Netflix Clone</h1>
 
-![Netflix_logo](C:\Users\User\Desktop\Netflix\img\Netflix_logo.svg)
+![Netflix_logo](https://user-images.githubusercontent.com/30630150/100402656-9242ff00-303b-11eb-9d6b-af40c0bb9a9f.jpeg)
 
 
 
