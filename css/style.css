@@ -63,7 +63,7 @@ header nav a:hover {
 
 .filmePrincipal {
   font-size: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("/img/coringa-logo.jpg");
 
   height: 600px;
